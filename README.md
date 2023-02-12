@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shaddai Kamina
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me shaddaikamina@gmail.com
 
